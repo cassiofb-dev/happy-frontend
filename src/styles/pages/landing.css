@@ -60,6 +60,10 @@
   font-weight: 800;
 }
 
+.content-wrapper .location a {
+  color: blue;
+}
+
 .content-wrapper .enter-app {
   position: absolute;
   right: 0;

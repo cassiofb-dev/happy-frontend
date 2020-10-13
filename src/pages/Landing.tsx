@@ -19,7 +19,13 @@ function Landing() {
 
         <div className="location">
           <strong>Rio de Janeiro</strong>
-          <span>Rio de Janeiro</span>
+          <a
+            href="https://github.com/cassiofb-dev/happy-frontend"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Código Fonte
+          </a>
         </div>
 
         <Link to="/app" className="enter-app">
